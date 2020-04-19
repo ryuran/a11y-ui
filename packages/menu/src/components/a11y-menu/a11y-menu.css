@@ -1,0 +1,10 @@
+:host {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-radius: .25em;
+}
+
+a11y-menu-item {
+  display: block;
+}
